@@ -1,0 +1,12 @@
+const num1 = 60;
+const num2 = 20;
+const sum = num1 + num2;
+console.log(sum);
+const subtraction = num1 - num2;
+console.log(subtraction);
+const multiplication = num1 * num2;
+console.log(multiplication);
+const division = num1 / num2;
+console.log(division);
+const remainder = num1 % num2;
+console.log(remainder);

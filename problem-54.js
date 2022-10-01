@@ -1,0 +1,1 @@
+//find the area of a rectangle ( we already do it before)
